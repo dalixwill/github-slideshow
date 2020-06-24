@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Hello World! I'm getting more acquainted with git!
+[<img src="https://mamasgeeky.com/wp-content/uploads/2020/03/coronavirus-meme-1.jpg">]
 Use the left arrow to go back!
